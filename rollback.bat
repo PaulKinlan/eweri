@@ -1,1 +1,0 @@
-c:\Python25\python.exe "C:\Program Files\Google\google_appengine\appcfg.py" --email paul@eweri.com rollback .
